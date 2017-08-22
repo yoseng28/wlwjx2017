@@ -1,0 +1,49 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<script>
+function preloadImg(src)
+{
+	var img=new Image();
+	img.src=src
+}
+preloadImg("Img/bbs_left_fg_2.gif");
+var displayBar=true;
+function switchBar(obj)
+{
+	if (displayBar)
+	{
+		parent.frame.cols="0,8,*";
+		displayBar=false;
+		obj.src="Img/bbs_left_fg_2.gif";
+		obj.title="打开左边管理菜单";
+	}
+	else{
+		parent.frame.cols="200,8,*";
+		displayBar=true;
+		obj.src="Img/bbs_left_fg_1.gif";
+		obj.title="关闭左边管理菜单";
+	}
+}
+</script>
+</head>
+
+<body>
+<table width="8" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#D9D9D9"><img src="Img/bbs_left_fg_1.gif" width="8" height="12" style="cuorsr:hand" title="关闭左边管理菜单" onClick="switchBar(this)"></td>
+  </tr>
+</table>
+</body>
+</html>

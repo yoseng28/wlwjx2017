@@ -1,0 +1,39 @@
+TD {
+	FONT-SIZE: 9pt
+}
+.xzr {
+	BORDER-RIGHT: #ffffff 4px solid; BORDER-LEFT: #ffffff 4px solid; bgcolor: "#FFFFFF"
+}
+A {
+	FONT-SIZE: 9pt; COLOR: #666; LINE-HEIGHT: 17px; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #666
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.indextext {
+	FONT-SIZE: 9pt; COLOR: #666; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+TABLE {
+	FONT-SIZE: 9pt; COLOR: #666; LINE-HEIGHT: 17px; TEXT-DECORATION: none
+}
+.w {
+	FONT-SIZE: 9pt; COLOR: #ffffff; LINE-HEIGHT: 17px; TEXT-DECORATION: none
+}
+.w A {
+	FONT-SIZE: 9pt; COLOR: #ffffff; LINE-HEIGHT: 17px; TEXT-DECORATION: none
+}
+.w A:visited {
+	COLOR: #ffffff
+}
+.w A:hover {
+	COLOR: #ffffff
+}
+.w A:link {
+	COLOR: #ffffff
+}
+.w A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}

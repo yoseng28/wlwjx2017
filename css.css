@@ -1,0 +1,99 @@
+BODY {
+	FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: buttonface; SCROLLBAR-SHADOW-COLOR: buttonface; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: buttonhighlight; SCROLLBAR-TRACK-COLOR: #eeeeee; FONT-FAMILY: "宋体", Verdana, Arial, Helvetica, sans-serif; SCROLLBAR-DARKSHADOW-COLOR: buttonshadow
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体",Verdana, Arial, Helvetica, sans-serif
+}
+A:active {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: "宋体", Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: "宋体", Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff3300; FONT-FAMILY: "宋体", Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: "宋体",Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.nav14:active {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: "宋体", Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.nav14:visited {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: "宋体", Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.nav14:link {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: "宋体", Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.nav14:hover {
+	FONT-SIZE: 14px; COLOR: #ffff00; FONT-FAMILY: "宋体",Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.underlinefont:active {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: "宋体",Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.underlinefont:visited {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: "宋体",Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.underlinefont:link {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: "宋体", Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.underlinefont:hover {
+	FONT-SIZE: 12px; COLOR: #ff3300; FONT-FAMILY: "宋体",Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+INPUT {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TEXTAREA {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.copyrightfont {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.td12font150 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; TEXT-ALIGN: justify
+}
+.td12font150blue {
+	FONT-SIZE: 12px; COLOR: #0066cc; LINE-HEIGHT: 150%; TEXT-ALIGN: justify
+}
+.td12font180 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 180%; TEXT-ALIGN: justify
+}
+.td14font150 {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 150%; TEXT-ALIGN: justify
+}
+.datefont {
+	FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.newstitlefont {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff3300; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.inputnoborder {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.inputsubmit {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #ffffff; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #999999; BORDER-RIGHT-WIDTH: 0px
+}
+.whitefont {
+	COLOR: #ffffff
+}
+.redfont {
+	COLOR: #ff3300
+}
+P {
+	TEXT-INDENT: 2em
+}
+.boldfontok {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.boldfont12 {
+	FONT-WEIGHT: bold
+}
+.leftbk {
+	BACKGROUND-IMAGE: url(bk_left.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.rightbk {
+	BACKGROUND-IMAGE: url(bk_right.jpg); BACKGROUND-REPEAT: no-repeat
+}
