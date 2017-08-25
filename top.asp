@@ -3,45 +3,51 @@
 
 	<head>
 		<meta http-equiv="Content-Language" content="zh-cn">
-		<div align="center">
-			<table border="0" width="100%" cellspacing="0" height="116" bgcolor="#1D1C1B">
+		
+		
+<!--yoseng20170825-->		
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css"/>
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script> 
+<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<style>
+.f20 {font-size: 20px;}
+.cFFF {color: #FFF;}
+.bc3395 {background-color: #3395EC;}
+</style>
+
+
+		<div align="center" class="bc3395">
+			<table border="0" width="100%" cellspacing="0" height="100" bgcolor="#2d80e6">
 				<tr>
-					<td height="116">
+					<td height="100">
 						<table border="0" width="100%" background="fl/bg.gif" cellspacing="0" cellpadding="0">
 							<tr>
 								<td bgcolor="#EEEEEE">
 									<div align="center">
-										<table border="0" width="1148" cellspacing="0" height="114" bgcolor="#ECECED">
+										<table border="0" width="100%" cellspacing="0" height="80" bgcolor="" background="images/new/title_bg.jpg">
 											<tr>
-												<td height="114" rowspan="4">
-													<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
-														<img border="0" src="fl/top1.gif" width="839" height="118"></td>
+												<td height="99" rowspan="4">
+													<p style="line-height: 100%; margin-top: 0; margin-bottom: 0; margin-left: 60px;">
+														<img border="0" src="images/new/logo.png" width="550" height="65"></td>
 												<td height="30" width="372">
 													<p style="line-height: 100%; margin-top: 0; margin-bottom: 0" align="right" class="jd">
 														<font face="微软雅黑" size="2">
 															<a style="text-decoration: none" target="_blank" href="http://www.lzjtu.edu.cn/">
-																<font color="#373737">交大首页</font>
+																<font color="#FFFFFF">交大首页</font>
 															</a>
 															<font color="#373737">　</font>
 															<a href="download.asp?type=79" style="text-decoration: none">
-																<font color="#373737">下载中心</font>
+																<font color="#FFFFFF">下载中心</font>
 															</a>
 															<font color="#373737">　</font>
-														</font><span class="zhuye"><a href="javascript:window.external.addFavorite('http://www.ectgemlju.com','欢迎你收藏兰州交通大学——兰州交通大学英语基础课教学团队网站')" style="text-decoration: none"><font size="2" color="#000000"><a style="text-decoration: none" href="about.asp?type=5"><font color="#373737">联系我们</font></a></font></a></span>
+														</font><span class="zhuye"><a href="javascript:window.external.addFavorite('http://www.ectgemlju.com','欢迎你收藏兰州交通大学——兰州交通大学英语基础课教学团队网站')" style="text-decoration: none"><font size="2" color="#000000"><a style="text-decoration: none" href="about.asp?type=5"><font color="#FFFFFF">联系我们</font></a></font></a></span>
 														<font size="2" face="微软雅黑">
 															<a style="text-decoration: none" href="about.asp?type=5">
 																<font color="#373737">　</font>
 															</a>
 														</font>
 												</td>
-											</tr>
-											<tr>
-												<td height="28" width="372">
-													</td>
-											</tr>
-											<tr>
-												<td height="28" width="372">
-													</td>
 											</tr>
 											<tr>
 												<td height="28" width="372">
@@ -221,6 +227,7 @@
 										text-align: center;
 										float: left;
 										position: relative;
+										width: 140px;
 									}
 									#nav li a {
 										font-color: #FFFFFF;
@@ -228,12 +235,13 @@
 										font-size: 18px;
 										padding: 12px 12px;
 										text-decoration: none;
+										width: 130px;
 									}
 									#nav li:hover>a {
 										background-color: #0099FF;
 										background-image: url('fl/jituan.png');
 										font-color: #FFFFFF;
-										width: 105px;
+										width: 130px;
 										left: 50;
 										border-radius: 0px 0px 0px 0px;
 										color: #FFFFFF;
@@ -247,7 +255,7 @@
 										left: 0;
 										top: 40px;
 										font-size: 10px;
-										width: 129px;
+										width: 130px;
 									}
 									#nav ul li {
 										width: 100%;
@@ -257,7 +265,7 @@
 									#nav ul li:hover>a {
 										background-color: #0099FF;
 										font-color: #FFFFFF;
-										width: 110px;
+										width: 130px;
 									}
 									</style>
 									<font color="#FFFFFF" face="微软雅黑">
@@ -269,49 +277,15 @@
 										<ul id="nav" style="list-style-type: none; list-style-position: outside; text-align: center; font-color: #FFFFFF; color: #FFFFFF; width: 1250px; margin: 0; padding: 0">
 
 											<li>
-												<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(1);' href="index.asp">
+												<a class="hsubs cFFF f20" onmouseover='mover(1);' onmouseout='mout(1);' href="index.asp">
+													<span class="glyphicon glyphicon-home"></span>
 													<font color="#FFFFFF" face="微软雅黑"><b>团队首页</b></font>
 												</a>
 
 											</li>
 											<li>
-												<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(1);' href="tdmb.asp?type=1">
-													<font color="#FFFFFF" face="微软雅黑"><b>团队概况</b></font>
-												</a>
-											</li>
-
-											<li>
-												<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(1);' href="shizi.asp?type=48">
-													<font color="#FFFFFF" face="微软雅黑"><b>教师简介</b></font>
-												</a>
-
-											</li>
-											
-											<li>
-												<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(1);' href=xxyd.asp?type=64>
-													<font color="#FFFFFF" face="微软雅黑"><b>团队建设</b></font>
-												</a>
-												<ul class="subs">
-													<li>
-														<a href="ydlist.asp?type=87&type2=62">
-															<font color="#FFFFFF" face="微软雅黑">团队建设保障</font>
-														</a>
-													</li>
-
-													<li>
-														<a href="ydlist.asp?type=87&type2=63">
-															<font color="#FFFFFF" face="微软雅黑">团队建设计划</font>
-														</a>
-													</li>
-
-													<li></li>
-
-												</ul>
-
-												</li>
-											
-											<li>
-												<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(1);' href="tdgc.asp?type=61">
+												<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="tdgc.asp?type=61">
+													<span class="glyphicon glyphicon-info-sign"></span>
 													<font color="#FFFFFF" face="微软雅黑"><b>教学情况</b></font>
 												</a>
 												<ul class="subs">
@@ -344,7 +318,8 @@
 											</li>
 											
 											<li>
-												<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(1);' href="tdgc.asp?type=61">
+												<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="tdgc.asp?type=61">
+													<span class="glyphicon glyphicon-th-list"></span>
 													<font color="#FFFFFF" face="微软雅黑"><b>实践教学</b></font>
 												</a>
 												<ul class="subs">
@@ -365,7 +340,8 @@
 											<li>
 												<li>
 
-													<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(1);' href="cxjy.asp?type=73">
+													<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="cxjy.asp?type=73">
+														<span class="glyphicon glyphicon-user"></span>
 														<font color="#FFFFFF" face="微软雅黑"><b>教师培养</b></font>
 													</a>
 													<ul class="subs">
@@ -387,7 +363,8 @@
 												</li>
 
 												<li>
-													<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(1);' href=xxyd.asp?type=64>
+													<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href=xxyd.asp?type=64>
+														<span class="glyphicon glyphicon-cd"></span>
 														<font color="#FFFFFF" face="微软雅黑"><b>学习园地</b></font>
 													</a>
 													<ul class="subs">
@@ -410,7 +387,8 @@
 												</li>
 
 												<li>
-													<a class="hsubs" onmouseover='mover(1);' onmouseout='mout(0);' href=sbcl.asp?type=72>
+													<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(0);' href=sbcl.asp?type=72>
+														<span class="glyphicon glyphicon-book"></span>
 														<font color="#FFFFFF" face="微软雅黑"><b>任务书</b></font>
 													</a>
 
@@ -430,17 +408,5 @@
 	</table>
 	</div>
 
-	<table border="0" width="100%" cellspacing="0" height="2">
-		<tr>
-			<td></td>
-		</tr>
-	</table>
 
-	<IFRAME name=I1 marginWidth=0 marginHeight=0 src="carousel.html" frameBorder=no width=100% scrolling=no height=540 DESIGNTIMESP="1840"></IFRAME>
-	<table border="0" width="100%" cellspacing="0" cellpadding="0" height="5">
-		<tr>
-			<td background="topbx.gif">
-				<p align="center" style="line-height: 100%; margin-top: 0; margin-bottom: 6px">
-			</td>
-		</tr>
-	</table>
+	<IFRAME name=I1 marginWidth=0 marginHeight=0 src="carousel.html" frameBorder=no width=100% scrolling=no height=440 DESIGNTIMESP="1840"></IFRAME>
