@@ -2,7 +2,7 @@
 <head>
 <style>
 .container-fluid {padding-right: 0px; padding-left: 0px;}
-.myTable{margin-left: -15px; background-color: #F0F0F0;}
+.myTable{margin-left: 0px; background-color: #F0F0F0;}
 .bgF0{background-color: #F0F0F0;}
 .padding5 {padding: 5px;}
 .bc1369c0 {background-color: #1369c0;}
