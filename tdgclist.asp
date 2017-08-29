@@ -83,7 +83,7 @@ border=0>
 					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
                       <TD height="49" align="center" bgcolor="#0099FF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 						<p align="left" class="title" style="margin-top: 0; margin-bottom: 0">
-										<font color="#006699" face="Î¢ÈíÑÅºÚ" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">¡¡</font><span style="font-weight: 700"><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ">ÖÆ¶È±£ÕÏ</font></span></TD>
+										<font color="#006699" face="Î¢ÈíÑÅºÚ" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">¡¡</font><span style="font-weight: 700"><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ">ÊÚ¿ÎÇé¿ö</font></span></TD>
                     </tr>
 					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
                       <TD height="99" bgcolor="#FFFFFF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">

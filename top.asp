@@ -295,22 +295,22 @@
 														</a>
 													</li>
 													<li>
-														<a href="tdgclist.asp?type=86&type2=58">
+														<a href="tdgcview.asp?id=404">
 															<font color="#FFFFFF" face="微软雅黑">教学研究</font>
 														</a>
 													</li>
 													<li>
-														<a href="tdgclist.asp?type=86&type2=59">
+														<a href="tdgcview.asp?id=405">
 															<font color="#FFFFFF" face="微软雅黑">教学改革</font>
 														</a>
 													</li>
 													<li>
-														<a href="tdgclist.asp?type=86&type2=60">
+														<a href="tdgcview.asp?id=406">
 															<font color="#FFFFFF" face="微软雅黑">教学要求</font>
 														</a>
 													</li>
 													<li>
-														<a href="tdgclist.asp?type=86&type2=61">
+														<a href="tdgcview.asp?id=407">
 															<font color="#FFFFFF" face="微软雅黑">教学资源建设</font>
 														</a>
 													</li>
@@ -324,13 +324,13 @@
 												</a>
 												<ul class="subs">
 													<li>
-														<a href="tdgclist.asp?type=61&type2=37">
+														<a href="tdgcview.asp?id=408">
 															<font color="#FFFFFF" face="微软雅黑">学科竞赛</font>
 														</a>
 													</li>
 
 													<li>
-														<a href="tdgclist.asp?type=61&type2=38">
+														<a href="tdgcview.asp?id=409">
 															<font color="#FFFFFF" face="微软雅黑">实验实训</font>
 														</a>
 													</li>

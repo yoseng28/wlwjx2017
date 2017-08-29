@@ -71,7 +71,7 @@ border=0>
                 <table border="0" width="240" cellspacing="0" height="394">
 					<tr>
                       <TD height="60" align="center" bgcolor="#0099FF">
-						<p align="left" class="title" style="margin-top: 0; margin-bottom: 0"><font color="#4D4D4D">　</font><span style="font-weight: 700"><font color="#FFFFFF" face="微软雅黑">制度保障</font></span></TD>
+						<p align="left" class="title" style="margin-top: 0; margin-bottom: 0"><font color="#4D4D4D">　</font><span style="font-weight: 700"><font color="#FFFFFF" face="微软雅黑">授课情况</font></span></TD>
                     </tr>
 					<tr>
 						<td bgcolor="#FFFFFF"> 

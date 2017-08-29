@@ -81,7 +81,7 @@ border=0>
 					<tr>
                       <TD height="49" align="center" bgcolor="#0099FF">
 						<p align="left" class="title" style="margin-top: 0; margin-bottom: 0">
-										<font color="#006699" face="Î¢ÈíÑÅºÚ">¡¡</font><span style="font-weight: 700"><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ">ÖÆ¶È±£ÕÏ</font></span></TD>
+										<font color="#006699" face="Î¢ÈíÑÅºÚ">¡¡</font><span style="font-weight: 700"><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ">ÊÚ¿ÎÇé¿ö</font></span></TD>
                     </tr>
 					<tr>
                       <TD height="99" bgcolor="#FFFFFF">
