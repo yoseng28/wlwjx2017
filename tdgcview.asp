@@ -253,7 +253,7 @@ border=0 height="38">
 						<img border="0" src="fl/jiantou.jpg" width="17" height="14"></font></b><font face="Î¢ÈíÑÅºÚ"><a href="index.asp" style="text-decoration: none"><SPAN style="FONT-WEIGHT: bold;"><font color="#004993">Ê×Ò³</font></SPAN></a><b><font color="#004993"> 
                         &gt;&gt;<%=bigclass%> 
  						</font></b></font><span style="font-weight: 700">
-						<font color="#205081" face="Î¢ÈíÑÅºÚ">ÖÆ¶È±£ÕÏ</font></span><b style="color: rgb(0, 0, 0); font-family: Arial, Î¢ÈíÑÅºÚ; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 37.3333px; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><font color="#004993" face="Î¢ÈíÑÅºÚ">&gt;&gt;</font></b><font face="Î¢ÈíÑÅºÚ"><b><font color="#004993">ÕıÎÄÄÚÈİ </font></b></font></TD>
+						<font color="#205081" face="Î¢ÈíÑÅºÚ">½ÌÑ§Çé¿ö</font></span><b style="color: rgb(0, 0, 0); font-family: Arial, Î¢ÈíÑÅºÚ; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 37.3333px; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><font color="#004993" face="Î¢ÈíÑÅºÚ">&gt;&gt;</font></b><font face="Î¢ÈíÑÅºÚ"><b><font color="#004993">ÕıÎÄÄÚÈİ </font></b></font></TD>
                     </TR>
 					</TBODY>
                 </TABLE>

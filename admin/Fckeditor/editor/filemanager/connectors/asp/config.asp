@@ -33,7 +33,7 @@ ConfigIsEnabled = True
 ' This setting is preserved only for backward compatibility.
 ' You should look at the settings for each resource type to get the full potential
 Dim ConfigUserFilesPath
-ConfigUserFilesPath = "/uppic/"
+ConfigUserFilesPath = "/wlwjx2017/uppic/"
 
 ' Due to security issues with Apache modules, it is recommended to leave the
 ' following setting enabled.
