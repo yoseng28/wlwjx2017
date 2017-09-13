@@ -81,7 +81,7 @@ border=0>
 					<tr>
                       <TD height="49" align="center" bgcolor="#0099FF">
 						<p align="left" class="title" style="margin-top: 0; margin-bottom: 0">
-										<font color="#006699" face="Î¢ÈíÑÅºÚ">¡¡</font><span style="font-weight: 700"><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ">ÊÚ¿ÎÇé¿ö</font></span></TD>
+										<font color="#006699" face="Î¢ÈíÑÅºÚ">¡¡</font><span style="font-weight: 700"><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ">½ÌÑ§Çé¿ö</font></span></TD>
                     </tr>
 					<tr>
                       <TD height="99" bgcolor="#FFFFFF">
@@ -91,20 +91,30 @@ border=0>
                                     <TR> 
                                       <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
 										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgclist.asp?type=61&type2=37">¹ÜÀíÖÆ¶È</a></font></TD>
+										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgclist.asp?type=86&type2=57">ÊÚ¿ÎÇé¿ö</a></font></TD>
                                       
                                     </TR>
                                     <TR> 
                                       <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
 										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgclist.asp?type=61&type2=38">Ê¦×Ê¶ÓÎé½¨Éè</a></font></TD>
+										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgcview.asp?id=404">½ÌÑ§ÑÐ¾¿</a></font></TD>
                                       
                                     </TR>
                                     <TR> 
                                       <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
 										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgclist.asp?type=61&type2=39">±¾¿ÆÉúµ¼Ê¦ÖÆ</a></font></TD>
+										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgcview.asp?id=405">½ÌÑ§¸Ä¸ï</a></font></TD>
                                       
+                                    </TR>
+                                    <TR> 
+                                      <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
+										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
+										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgcview.asp?id=406">½ÌÑ§ÒªÇó</a></font></TD>
+                                    </TR>
+                                    <TR> 
+                                      <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
+										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
+										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgcview.asp?id=407">½ÌÑ§×ÊÔ´½¨Éè</a></font></TD>
                                     </TR>
                                     
                                   </TBODY>

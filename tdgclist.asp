@@ -1,9 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
 <HTML xmlns="http://www.w3.org/1999/xhtml">
 
-<!--#include file="conn.asp"-->
-<!--#include file="inc/function.asp"--> 
-<% 
+	<!--#include file="conn.asp"-->
+	<!--#include file="inc/function.asp"-->
+	<% 
 bigclassid=trim(request("type"))
 smallclassid=trim(request("type2"))
 bigclassid=replace(bigclassid,"'","")
@@ -45,224 +45,162 @@ smallclassid=left(smallclassid,8)
     end if
     end if
  %>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<title><% =sitetitle %>--<% =bigclass %></title>
-<meta name="keywords" content="<% =bigclass %>,<% =smallclass %>,<% =webKeywords %>">
-<meta name="description" content="<% =webDescription %>,<% =bigclass %>,<% =smallclass %>">
-<meta name="robots" content="index, follow">
-<meta name="googlebot" content="index, follow">
-<style fprolloverstyle>A:hover {color: #004993; font-weight: bold}
-</style>
-<style>
-<!--
-.xuesheng    { font-size: 12pt; font-weight: bold }
-.title        { font-size: 14pt }
-.shuye1        { font-size: 11pt }
--->
-</style>
-</head>
-<BODY topMargin=0 leftmargin="0" link="#515753" vlink="#515753" alink="#515753">
-<!--#include file="top.asp"-->
-<div align="center">
-<TABLE cellSpacing=0 cellPadding=0 width=1100 bgColor=#ffffff 
-border=0>
-  <TBODY>
-    <TR>      
-      <TD width="1100">
-		<TABLE width=1100 border=0 align=center cellPadding=0 cellSpacing=0  vAlign=top style="BORDER-TOP: #808080 1px solid;BORDER-LEFT: #808080 1px solid;BORDER-right: #808080 1px solid;BORDER-bottom: #808080 1px solid;">
-          <TBODY>
-            <TR> 
-              <TD width="260" vAlign=top style="background-repeat: repeat-x"
- bgcolor="#FFFFFF"> 
-                
-                <div align="center">
-                <table border="0" width="260" cellspacing="0" height="436" style="BORDER-TOP: #808080 0px solid;BORDER-LEFT: #808080 0px solid;BORDER-right: #808080 1px solid;BORDER-bottom: #808080 0px solid;">
-					<tbody style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-                      <TD height="49" align="center" bgcolor="#0099FF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-						<p align="left" class="title" style="margin-top: 0; margin-bottom: 0">
-										<font color="#006699" face="微软雅黑" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">　</font><span style="font-weight: 700"><font color="#FFFFFF" face="微软雅黑">授课情况</font></span></TD>
-                    </tr>
-					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-                      <TD height="99" bgcolor="#FFFFFF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-                                <TABLE cellSpacing=0 cellPadding=0 width="91%" 
-                              border=0 height="87" >
-                                  <TBODY>
-                                    <TR> 
-                                      <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
-										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="微软雅黑">　</font><font face="微软雅黑"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgclist.asp?type=61&type2=37">管理制度</a></font></TD>
-                                      
-                                    </TR>
-                                    <TR> 
-                                      <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
-										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="微软雅黑">　</font><font face="微软雅黑"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgclist.asp?type=61&type2=38">师资队伍建设</a></font></TD>
-                                      
-                                    </TR>
-                                    <TR> 
-                                      <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
-										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="微软雅黑">　</font><font face="微软雅黑"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="tdgclist.asp?type=61&type2=39">本科生导师制</a></font></TD>
-                                      
-                                    </TR>
-                                    
-                                  </TBODY>
-                                </TABLE>
-								</TD>
-                    </tr>
-					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-						<td bgcolor="#FFFFFF" height="260" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px"> 
-						<font color="#666666" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-						<table border="0" width="302" cellspacing="0" cellpadding="0" height="40" bgcolor="#004993" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-							<tbody style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-							<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								<td height="50" bgcolor="#0099FF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								<p class="title" style="margin-top: 0; margin-bottom: 0" align="left">
-										<font color="#006699" face="微软雅黑" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">　</font><span style="border:0px none; margin:0px; padding:0px; font-weight: 700; "><font color="#FFFFFF" face="微软雅黑" style="border: 0px none; margin: 0px; padding: 0px">团队动态</font></span></td>
-							</tr>
-							<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								<td height="10" bgcolor="#FFFFFF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								　</td>
-							</tr>
-				</table>
-						<table border="0" width="101%" cellspacing="0" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-							<tbody style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-							<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								<td style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px"> 
-                <table border="0" width="252" cellspacing="0" height="253" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-					<tbody style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-						<td bgcolor="#FFFFFF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px"> 
-				<div align="center" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-								<table border="1" bgcolor="#FFFFFF" cellspacing="0" bordercolor="#CFCFCF" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" width="255">
-									<tbody style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-									<tr style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-										<td style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-							<body>
-<div id="demo" style="border:0px none; margin:0px; padding:0px; overflow:hidden;height:209px;width:298px; font-size:15px">
-<ul id="demo1" style="height: auto; text-align: left; border: 0px none; margin: 0px; padding: 0px; list-style-type:none; font-size:15px">  
-<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="微软雅黑">
-                <b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                <%
-sql2="select *  from content where bigclassname='"&index1&"' order by id desc "
-Set oRS= Server.CreateObject("ADODB.recordset")
-oRS.Open sql2,conn,1,3
- if NOT oRS.EOF then 
-for i=1 to 20
-  if NOT oRS.EOF then
-   %>
-                </b>
-                </font>
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-border=0 height="24" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                  <TBODY style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                    <TR style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"> 
-                      <TD class=sd13 height=24>
-						<p style="margin-top: 0; margin-bottom: 0">
-						<font face="微软雅黑" style="font-size: 15px; border: 0px none; margin: 0px; padding: 0px">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">·  
-						</font>  
-						<A 
-                              title=<%=oRS("title")%> 
-                              href="gonggaoview.asp?id=<%=oRS("id")%>" 
-                               style="border:0px none; margin:0px; padding:0px; text-decoration: none; font-size:15px">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-						<%=left(oRS("title"),15)%></font></A></font></TD>
-						<TD class=sd13 height=27 width="56">
-						<p align="center" style="margin-top: 0; margin-bottom: 0">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="微软雅黑">(<% =month(ors("infotime")) %>.<% =day(ors("infotime")) %>)</font></TD>
-                    </TR>
+	<html>
 
-                  </TBODY>
-                </TABLE>
-                <font color="#FFFF00" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="微软雅黑">
-                <b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"><%
-oRS.MoveNEXT
-end if
-next
-else Response.Write ("暂无内容.") end if
-oRS.close 
-Set oRS = Nothing
-%>
-              </b>
-              </font></ul> 
-<div id="demo2" style="height: auto; text-align: left; border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-	<p style="margin-top: 0; margin-bottom: 0"></div>
-</div> 
-							<font color="#FFFF00" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="微软雅黑"> 
-							<b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"> 
-<script> 
-var speed=40 
-var demo=document.getElementById("demo"); 
-var demo2=document.getElementById("demo2"); 
-var demo1=document.getElementById("demo1"); 
-demo2.innerHTML=demo1.innerHTML 
-function Marquee(){ 
-if(demo2.offsetTop-demo.scrollTop<=0) 
-  demo.scrollTop-=demo1.offsetHeight 
-else{ 
-  demo.scrollTop++ 
-} 
-} 
-var MyMar=setInterval(Marquee,speed) 
-demo.onmouseover=function() {clearInterval(MyMar)} 
-demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
-</script> 
-</body>
-							</b>
-							</font>
-</td>
-									</tr>
-								</table>
-							</div>
-                　</td>
-					</tr>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<title>
+			<% =sitetitle %>--
+			<% =bigclass %>
+		</title>
+		<meta name="keywords" content="<% =bigclass %>,<% =smallclass %>,<% =webKeywords %>">
+		<meta name="description" content="<% =webDescription %>,<% =bigclass %>,<% =smallclass %>">
+		<meta name="robots" content="index, follow">
+		<meta name="googlebot" content="index, follow">
+		<style fprolloverstyle>
+			A:hover {
+				color: #004993;
+				font-weight: bold
+			}
+		</style>
+		<style>
+			<!-- .xuesheng {
+				font-size: 12pt;
+				font-weight: bold
+			}
+			
+			.title {
+				font-size: 14pt
+			}
+			
+			.shuye1 {
+				font-size: 11pt
+			}
+			
+			-->
+		</style>
+	</head>
 
-					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-						<td bgcolor="#FFFFFF" width="248" height="130" align="left" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px"> 
-              	　</td>
-					</tr>
+	<BODY topMargin=0 leftmargin="0" link="#515753" vlink="#515753" alink="#515753">
+		<!--#include file="top.asp"-->
+		<div align="center">
+			<TABLE cellSpacing=0 cellPadding=0 width=1100 bgColor=#ffffff border=0>
+				<TBODY>
+					<TR>
+						<TD width="1100">
+							<TABLE width=1100 border=0 align=center cellPadding=0 cellSpacing=0 vAlign=top style="BORDER-TOP: #808080 1px solid;BORDER-LEFT: #808080 1px solid;BORDER-right: #808080 1px solid;BORDER-bottom: #808080 1px solid;">
+								<TBODY>
+									<TR>
+										<TD width="260" vAlign=top style="background-repeat: repeat-x" bgcolor="#FFFFFF">
 
-					</table>
-              					</td>
-							</tr>
-						</table></td>
-					</tr>
-					</table>
-              	</div>
-				</TD>
-              <TD width="1" bgcolor="#808080"></TD>
-              <TD width="850" vAlign=top style="BORDER-TOP: #808080 0px solid;BORDER-LEFT: #808080 0px solid;BORDER-right: #808080 0px solid;BORDER-bottom: #808080 0px solid;"> 
-                <TABLE cellSpacing=0 cellPadding=0 width="850" 
-border=0 height="76">
-                  <TBODY>
-                    <TR> 
-                      <TD width="694" align="right" height="71">
-						<p align="left" class="title"><b><font color="#205081">
-						<img border="0" src="fl/jiantou.jpg" width="17" height="14"></font></b><font color="#663300" face="微软雅黑"> </font>
-						<font face="微软雅黑"><font color="#004993">&nbsp;</font><b><font color="#004993">首页 
+											<div align="center">
+												<table border="0" width="260" cellspacing="0" height="436" style="BORDER-TOP: #808080 0px solid;BORDER-LEFT: #808080 0px solid;BORDER-right: #808080 1px solid;BORDER-bottom: #808080 0px solid;">
+													<tbody style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+														<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+															<TD height="49" align="center" bgcolor="#0099FF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+																<p align="left" class="title" style="margin-top: 0; margin-bottom: 0">
+																	<font color="#006699" face="微软雅黑" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">　</font><span style="font-weight: 700"><font color="#FFFFFF" face="微软雅黑">教学情况</font></span></TD>
+														</tr>
+														<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+															<TD height="99" bgcolor="#FFFFFF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+																<TABLE cellSpacing=0 cellPadding=0 width="91%" border=0 height="87">
+																	<TBODY>
+																		<TR>
+																			<TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
+																				<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
+																					<font color="#004993" face="微软雅黑">　</font>
+																					<font face="微软雅黑"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
+																						<a style="text-decoration: none" href="tdgclist.asp?type=86&type2=57">授课情况</a>
+																					</font>
+																			</TD>
+
+																		</TR>
+																		<TR>
+																			<TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
+																				<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
+																					<font color="#004993" face="微软雅黑">　</font>
+																					<font face="微软雅黑"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
+																						<a style="text-decoration: none" href="tdgcview.asp?id=404">教学研究</a>
+																					</font>
+																			</TD>
+
+																		</TR>
+																		<TR>
+																			<TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
+																				<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
+																					<font color="#004993" face="微软雅黑">　</font>
+																					<font face="微软雅黑"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
+																						<a style="text-decoration: none" href="tdgcview.asp?id=405">教学改革</a>
+																					</font>
+																			</TD>
+
+																		</TR>
+																		<TR>
+																			<TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
+																				<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
+																					<font color="#004993" face="微软雅黑">　</font>
+																					<font face="微软雅黑"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
+																						<a style="text-decoration: none" href="tdgcview.asp?id=406">教学要求</a>
+																					</font>
+																			</TD>
+
+																		</TR>
+																		<TR>
+																			<TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
+																				<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
+																					<font color="#004993" face="微软雅黑">　</font>
+																					<font face="微软雅黑"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
+																						<a style="text-decoration: none" href="tdgcview.asp?id=407">教学资源建设</a>
+																					</font>
+																			</TD>
+
+																		</TR>
+																	</TBODY>
+																</TABLE>
+															</TD>
+														</tr>
+														
+														
+														
+														<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+															<td bgcolor="#FFFFFF" height="260" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+																<font color="#666666" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+															</td>
+														</tr>
+												</table>
+											</div>
+										</TD>
+										<TD width="1" bgcolor="#808080"></TD>
+										<TD width="850" vAlign=top style="BORDER-TOP: #808080 0px solid;BORDER-LEFT: #808080 0px solid;BORDER-right: #808080 0px solid;BORDER-bottom: #808080 0px solid;">
+											<TABLE cellSpacing=0 cellPadding=0 width="850" border=0 height="76">
+												<TBODY>
+													<TR>
+														<TD width="694" align="right" height="71">
+															<p align="left" class="title"><b><font color="#205081">
+						<img border="0" src="fl/jiantou.jpg" width="17" height="14"></font></b>
+																<font color="#663300" face="微软雅黑"> </font>
+																<font face="微软雅黑">
+																	<font color="#004993">&nbsp;</font><b><font color="#004993">首页 
                         &gt;&gt; </font> 
 						<a href="tdgc.asp?type=<%=bigclassid%>" style="text-decoration: none">
 						<font color="#004993"><%=bigclass%></font></a><font color="#004993"> 
                         &gt;&gt; <%=smallclass%> 
                         </font> 
-                        </b> 
-                        </font> 
-                        </TD>
-                      <TD width="282">　</TD>
-                    </TR>
-                    <TR> 
-                      <TD height="5" colspan="2" align="center" background="images/lanmufeng.gif"></TD>
-                    </TR>
-                  </TBODY>
-                </TABLE>
-                <table width="710" border="0" align="center" cellpadding="0" cellspacing="0">
-                  <tr> 
-                    <td valign="top" class="shuye1"> <DIV align=center> 
-                        <% 
+                        </b>
+																</font>
+														</TD>
+														<TD width="282">　</TD>
+													</TR>
+													<TR>
+														<TD height="5" colspan="2" align="center" background="images/lanmufeng.gif"></TD>
+													</TR>
+												</TBODY>
+											</TABLE>
+											<table width="710" border="0" align="center" cellpadding="0" cellspacing="0">
+												<tr>
+													<td valign="top" class="shuye1">
+														<DIV align=center>
+															<% 
 page=clng(request("page"))		 
 Set rs=Server.CreateObject("ADODB.RecordSet") 
 if bigclass<>"" and smallclass <>"" then
@@ -276,9 +214,9 @@ if rs.eof and rs.bof then
 response.Write("暂无内容")
 else 
 %>
-                        <TABLE width="850" border=0 cellpadding="0" cellSpacing=0 id=table5>
-                          <TBODY>
-                            <% 
+															<TABLE width="850" border=0 cellpadding="0" cellSpacing=0 id=table5>
+																<TBODY>
+																	<% 
 rs.PageSize=25
 if page=0 then page=1 
 pages=rs.pagecount
@@ -286,38 +224,44 @@ if page > pages then page=pages
 rs.AbsolutePage=page  
 for j=1 to rs.PageSize 
 %>
-                            <TR height=24> 
-                              <TD height="18" 
-                        align=left width="716"> <font face="微软雅黑">                             
-                                                             
-                               <a href="tdgcview.asp?id=<% =rs("id") %>" style="text-decoration: none">
-								<p class="shuye1" style="line-height: 200%; margin-top: 0; margin-bottom: 0; margin-left:16px"><a href="tdgcview.asp?id=<% =rs("id") %>" style="text-decoration: none" > 
-                                      <font color="#666666"><img border="0" src="fl/icon03.gif" width="4" height="4"> <% =rs("title") %></p>
-                                </font>                 
+																	<TR height=24>
+																		<TD height="18" align=left width="716">
+																			<font face="微软雅黑">
 
-                                </a>                 
-                                </TD>
-                              <TD height="18" 
-                        align=center width="134" class="shuye1"> 
-								<p class="shuye1" style="line-height: 200%; margin-top: 0; margin-bottom: 0"> <% =year(rs("infotime")) %>-<% =month(rs("infotime")) %>-<% =day(rs("infotime")) %> </TD>
-                            </TR>
-                            
-                            <TR> 
-                                    <TD height="2" vAlign=middle class=listb background="images/newx_fenge.gif"></TD>
-                                  </TR>
-                            <%
+																				<a href="tdgcview.asp?id=<% =rs(" id ") %>" style="text-decoration: none">
+																					<p class="shuye1" style="line-height: 200%; margin-top: 0; margin-bottom: 0; margin-left:16px">
+																						<a href="tdgcview.asp?id=<% =rs(" id ") %>" style="text-decoration: none">
+																							<font color="#666666"><img border="0" src="fl/icon03.gif" width="4" height="4">
+																								<% =rs("title") %>
+																					</p>
+																					</font>
+
+																					</a>
+																		</TD>
+																		<TD height="18" align=center width="134" class="shuye1">
+																			<p class="shuye1" style="line-height: 200%; margin-top: 0; margin-bottom: 0">
+																				<% =year(rs("infotime")) %>-
+																				<% =month(rs("infotime")) %>-
+																				<% =day(rs("infotime")) %> </TD>
+																	</TR>
+
+																	<TR>
+																		<TD height="2" vAlign=middle class=listb background="images/newx_fenge.gif"></TD>
+																	</TR>
+																	<%
 rs.movenext
 if rs.eof then exit for
 next
 %>
-                          </TBODY>
-                        </TABLE>
-                        <CENTER>
-                          <table width="100%" border="0">
-                            <tr> 
-                              <td height="40" class="shuye1"><div align="center"> 
-                                  <font color="#666666"> 
-                                  <%if Page<2 then      
+																</TBODY>
+															</TABLE>
+															<CENTER>
+																<table width="100%" border="0">
+																	<tr>
+																		<td height="40" class="shuye1">
+																			<div align="center">
+																				<font color="#666666">
+																					<%if Page<2 then      
     response.write "首页 上一页&nbsp;"
   else
     response.write "<a href=tdgclist.asp?type="&bigclassid&"&type2="&smallclassid&"&page=1><FONT color=#ff0000>首页</FONT></a>&nbsp;"
@@ -332,43 +276,46 @@ next
    response.write "&nbsp;页次：<strong><font color=red>"&Page&"</font>/"&rs.pagecount&"</strong>页 "
     response.write "&nbsp;共<b><font color='#FF0000'>"&rs.recordcount&"</font></b>条信息 <b>"&rs.pagesize&"</b>条信息/页"
 %>
-                                </font>
-                                </div></td>
-                            </tr>
-                          </table>
-                        </CENTER>
-                      </DIV>
-                      <% 
+																				</font>
+																			</div>
+																		</td>
+																	</tr>
+																</table>
+															</CENTER>
+														</DIV>
+														<% 
 end if
 rs.close
 set rs=nothing
 %>
-                      <TABLE cellSpacing=0 cellPadding=0 width=100 align=center bgColor=#ffffff 
-border=0>
-                        <TBODY>
-                          <TR> 
-                            <TD height=8></TD>
-                          </TR>
-                        </TBODY>
-                      </TABLE></td>
-                  </tr>
-                </table>
-                <TABLE cellSpacing=0 cellPadding=0 width=100 align=center 
-border=0>
-                  <TBODY>
-                    <TR> 
-                      <TD height=8></TD>
-                    </TR>
-                  </TBODY>
-                </TABLE></TD>
-            </TR>
-          </TBODY>
-        </TABLE></TD>
-      <TD width="4"></TD>
-    </TR>
-  </TBODY>
-</TABLE>
-</div>
-<!--#include file="foot.asp"-->
-</body>
-</html>
+														<TABLE cellSpacing=0 cellPadding=0 width=100 align=center bgColor=#ffffff border=0>
+															<TBODY>
+																<TR>
+																	<TD height=8></TD>
+																</TR>
+															</TBODY>
+														</TABLE>
+													</td>
+												</tr>
+											</table>
+											<TABLE cellSpacing=0 cellPadding=0 width=100 align=center border=0>
+												<TBODY>
+													<TR>
+														<TD height=8></TD>
+													</TR>
+												</TBODY>
+											</TABLE>
+										</TD>
+									</TR>
+									</TBODY>
+							</TABLE>
+						</TD>
+						<TD width="4"></TD>
+					</TR>
+					</TBODY>
+			</TABLE>
+		</div>
+		<!--#include file="foot.asp"-->
+		</body>
+
+	</html>

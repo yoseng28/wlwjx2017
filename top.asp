@@ -37,10 +37,6 @@
 																<font color="#FFFFFF">交大首页</font>
 															</a>
 															<font color="#373737">　</font>
-															<a href="download.asp?type=79" style="text-decoration: none">
-																<font color="#FFFFFF">下载中心</font>
-															</a>
-															<font color="#373737">　</font>
 														</font><span class="zhuye"><a href="javascript:window.external.addFavorite('http://www.ectgemlju.com','欢迎你收藏兰州交通大学——兰州交通大学英语基础课教学团队网站')" style="text-decoration: none"><font size="2" color="#000000"><a style="text-decoration: none" href="about.asp?type=5"><font color="#FFFFFF">联系我们</font></a></font></a></span>
 														<font size="2" face="微软雅黑">
 															<a style="text-decoration: none" href="about.asp?type=5">
@@ -277,14 +273,14 @@
 										<ul id="nav" style="list-style-type: none; list-style-position: outside; text-align: center; font-color: #FFFFFF; color: #FFFFFF; width: 1250px; margin: 0; padding: 0">
 
 											<li>
-												<a class="hsubs cFFF f20" onmouseover='mover(1);' onmouseout='mout(1);' href="index.asp">
+												<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="index.asp">
 													<span class="glyphicon glyphicon-home"></span>
 													<font color="#FFFFFF" face="微软雅黑"><b>团队首页</b></font>
 												</a>
 
 											</li>
 											<li>
-												<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="tdgc.asp?type=61">
+												<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="#">
 													<span class="glyphicon glyphicon-info-sign"></span>
 													<font color="#FFFFFF" face="微软雅黑"><b>教学情况</b></font>
 												</a>
@@ -318,19 +314,19 @@
 											</li>
 											
 											<li>
-												<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="tdgc.asp?type=61">
+												<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="#">
 													<span class="glyphicon glyphicon-th-list"></span>
 													<font color="#FFFFFF" face="微软雅黑"><b>实践教学</b></font>
 												</a>
 												<ul class="subs">
 													<li>
-														<a href="tdgcview.asp?id=408">
+														<a href="sjjx.asp?id=408">
 															<font color="#FFFFFF" face="微软雅黑">学科竞赛</font>
 														</a>
 													</li>
 
 													<li>
-														<a href="tdgcview.asp?id=409">
+														<a href="sjjx.asp?id=409">
 															<font color="#FFFFFF" face="微软雅黑">实验实训</font>
 														</a>
 													</li>
@@ -340,7 +336,7 @@
 											<li>
 												<li>
 
-													<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="cxjy.asp?type=73">
+													<a class="hsubs cFFF" onmouseover='mover(1);' onmouseout='mout(1);' href="#">
 														<span class="glyphicon glyphicon-user"></span>
 														<font color="#FFFFFF" face="微软雅黑"><b>教师培养</b></font>
 													</a>

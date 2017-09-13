@@ -111,7 +111,7 @@ call view_content(title,infotime,hits,content,user)
 																<tr>
 																	<TD height="60" align="center" bgcolor="#0099FF">
 																		<p align="left" class="title" style="margin-top: 0; margin-bottom: 0">
-																			<font color="#4D4D4D">¡¡</font><span style="font-weight: 700"><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ">½ÌÑ§Çé¿ö</font></span></TD>
+																			<font color="#4D4D4D">¡¡</font><span style="font-weight: 700"><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ">Êµ¼ù½ÌÑ§</font></span></TD>
 																</tr>
 																<tr>
 																	<td bgcolor="#FFFFFF">
@@ -126,10 +126,9 @@ call view_content(title,infotime,hits,content,user)
 																										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
 																											<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font>
 																											<font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
-																												<a style="text-decoration: none" href="tdgclist.asp?type=86&type2=57">ÊÚ¿ÎÇé¿ö</a>
+																												<a style="text-decoration: none" href="sjjx.asp?id=408">Ñ§¿Æ¾ºÈü</a>
 																											</font>
 																									</TD>
-
 																								</TR>
 
 																								<TR>
@@ -137,37 +136,7 @@ call view_content(title,infotime,hits,content,user)
 																										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
 																											<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font>
 																											<font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
-																												<a style="text-decoration: none" href="tdgcview.asp?id=404">½ÌÑ§ÑÐ¾¿</a>
-																											</font>
-																									</TD>
-
-																								</TR>
-																								<TR>
-																									<TD align="left" height="40" background="bj.jpg">
-																										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-																											<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font>
-																											<font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
-																												<a style="text-decoration: none" href="tdgcview.asp?id=405">½ÌÑ§¸Ä¸ï</a>
-																											</font>
-																									</TD>
-
-																								</TR>
-																								<TR>
-																									<TD align="left" height="40" background="bj.jpg">
-																										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-																											<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font>
-																											<font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
-																												<a style="text-decoration: none" href="tdgcview.asp?id=406">½ÌÑ§ÒªÇó</a>
-																											</font>
-																									</TD>
-
-																								</TR>
-																								<TR>
-																									<TD align="left" height="40" background="bj.jpg">
-																										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-																											<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font>
-																											<font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
-																												<a style="text-decoration: none" href="tdgcview.asp?id=407">½ÌÑ§×ÊÔ´½¨Éè</a>
+																												<a style="text-decoration: none" href="sjjx.asp?id=409">ÊµÑéÊµÑµ</a>
 																											</font>
 																									</TD>
 																								</TR>
@@ -175,17 +144,52 @@ call view_content(title,infotime,hits,content,user)
 																						</TABLE>
 																					</TD>
 																				</TR>
-
+																				
+																				
+																				
 																				<TR style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 																					<td bgcolor="#FFFFFF" height="260">
 																						<font color="#666666">
-																							<table border="0" width="302" cellspacing="0" cellpadding="0" height="40" bgcolor="#004993">
+																							<table border="0" width="101%" cellspacing="0">
 																								<tr>
-																									<td height="10" bgcolor="#FFFFFF">
-																										</td>
+																									<td>
+																										<table border="0" width="252" cellspacing="0" height="253">
+																											<tr>
+																												<td bgcolor="#FFFFFF">
+																													<div align="center" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
+																														<table border="1" bgcolor="#FFFFFF" cellspacing="0" bordercolor="#CFCFCF" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" width="255">
+																															<tbody style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
+																																<tr style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
+																																	<td style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
+																																		<body>
+																																			<div id="demo" style="border:0px none; margin:0px; padding:0px; overflow:hidden;height:209px;width:298px; font-size:15px">
+																																				<div id="demo2" style="height: auto; text-align: left; border: 0px none; margin: 0px; padding: 0px; font-size:15px">
+																																					<p style="margin-top: 0; margin-bottom: 0">
+																																				</div>
+																																			</div>
+																																	</td>
+																																</tr>
+																														</table>
+																													</div>
+																													</td>
+																											</tr>
+
+																											<tr>
+																												<td bgcolor="#FFFFFF" width="248" height="130" align="left">
+																													</td>
+																											</tr>
+
+																										</table>
+																									</td>
 																								</tr>
 																							</table>
+																					</td>
 																				</tr>
+																				<tr>
+																					<td bgcolor="#FFFFFF">
+																						</td>
+																				</tr>
+
 																</TR>
 																</TBODY>
 																</TABLE>
@@ -215,7 +219,7 @@ call view_content(title,infotime,hits,content,user)
 																</a><b><font color="#004993"> 
                         &gt;&gt;<%=bigclass%> 
  						</font></b></font><span style="font-weight: 700">
-						<font color="#205081" face="Î¢ÈíÑÅºÚ">½ÌÑ§Çé¿ö</font></span><b style="color: rgb(0, 0, 0); font-family: Arial, Î¢ÈíÑÅºÚ; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 37.3333px; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><font color="#004993" face="Î¢ÈíÑÅºÚ">&gt;&gt;</font></b>
+						<font color="#205081" face="Î¢ÈíÑÅºÚ">Êµ¼ù½ÌÑ§</font></span><b style="color: rgb(0, 0, 0); font-family: Arial, Î¢ÈíÑÅºÚ; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 37.3333px; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><font color="#004993" face="Î¢ÈíÑÅºÚ">&gt;&gt;</font></b>
 															<font face="Î¢ÈíÑÅºÚ"><b><font color="#004993">ÕýÎÄÄÚÈÝ </font></b></font>
 													</TD>
 												</TR>
@@ -308,7 +312,7 @@ call view_content(title,infotime,hits,content,user)
 					</TD>
 
 					</TR>
-				</TBODY>
+					</TBODY>
 			</TABLE>
 		</div>
 		<!--#include file="foot.asp"-->
