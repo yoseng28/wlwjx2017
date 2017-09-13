@@ -75,7 +75,7 @@ table{background-color:#2d80e6}
 					主要承担本科《物联网工程导论》、《数据结构与算法》、《物联网应用系统实训》、《人工智能》、《物联网工程设计与实施》等课程讲授，年本科教学工作量约计为360学时。 任教期间，年度考核多次优秀。2009年破格晋升副教授，2010年获工学博士学位，2013年破格晋升教授；荣获09-11年度兰州交通大学优秀共产党员，2013年入选“西部之光”访问学者； 中国计算机学会会员，Yocsef兰州论坛AC委员，甘肃省信息协会会员。主要从事物联网技术及应用，智能信息处理领域科研工作，近年发表重要学术论文20余篇......
 				</p>
 				<p>
-					<a class="btn" href="#">查看更多 >></a>
+					<a class="btn" href="tdxqview.asp?id=415">查看更多 >></a>
 				</p>
 			</div>
 			<div class="col-md-5 bcTEAM2">
@@ -86,7 +86,7 @@ table{background-color:#2d80e6}
 				</div>
 				<div class="row">
 					<div class="col-xs-4 noPadding">
-						<a href="/wlwtd2016/web/tdxq/info.html?id=tdgk">
+						<a href="tdxqview.asp?id=413">
 							<div class="style9 bc999 _hover">
 								<div class="w100 h60 iconbg2"></div>
 								<h5 class="text-center fbolder cFFF">团队概况</h5>
@@ -94,7 +94,7 @@ table{background-color:#2d80e6}
 						</a>
 					</div>
 						<div class="col-xs-4 noPadding">
-						<a href="tdmb.asp?type=1">
+						<a href="tdxqview.asp?id=414">
 							<div class="style9 bc999 _hover">
 								<div class="w100 h60 iconbg7"></div>
 								<h5 class="text-center fbolder cFFF">团队组成</h5>
@@ -110,7 +110,7 @@ table{background-color:#2d80e6}
 						</a>
 					</div>
 					<div class="col-xs-4 noPadding">
-						<a href="/wlwtd2016/web/teachers/zsx.html">
+						<a href="tdxqview.asp?id=415">
 							<div class="style9 bcEE0000 _hover">
 								<div class="w100 h60 iconbg9"></div>
 								<h5 class="text-center fbolder cFFF">带头人简历</h5>
@@ -118,7 +118,7 @@ table{background-color:#2d80e6}
 						</a>
 					</div>
 					<div class="col-xs-4 noPadding">
-						<a href="ydlist.asp?type=87&type2=62">
+						<a href="tdxqview.asp?id=416">
 							<div class="style9 bcEE0000 _hover">
 								<div class="w100 h60 iconbg5"></div>
 								<h5 class="text-center fbolder cFFF">建设保障</h5>
@@ -126,7 +126,7 @@ table{background-color:#2d80e6}
 						</a>
 					</div>
 					<div class="col-xs-4 noPadding">
-						<a href="ydlist.asp?type=87&type2=63">
+						<a href="tdxqview.asp?id=416">
 							<div class="style9 bc999 _hover">
 								<div class="w100 h60 iconbg6"></div>
 								<h5 class="text-center fbolder cFFF">建设计划</h5>
@@ -134,7 +134,7 @@ table{background-color:#2d80e6}
 						</a>
 					</div>
 					<div class="col-xs-4 noPadding">
-						<a href="/wlwtd2016/web/tdxq/info.html?id=lxwm">
+						<a href="about.asp?type=5">
 							<div class="style9 bcCCC _hover">
 								<div class="w100 h60 iconbg8"></div>
 								<h5 class="text-center fbolder cFFF">联系我们</h5>
