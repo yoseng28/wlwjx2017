@@ -286,7 +286,7 @@
 												</a>
 												<ul class="subs">
 													<li>
-														<a href="tdgclist.asp?type=86&type2=57">
+														<a href="tdgcview.asp?id=418">
 															<font color="#FFFFFF" face="微软雅黑">授课情况</font>
 														</a>
 													</li>
@@ -342,13 +342,13 @@
 													</a>
 													<ul class="subs">
 														<li>
-															<a href="jylist.asp?type=73&type2=47">
+															<a href="cxjyview.asp?id=411">
 																<font color="#FFFFFF" face="微软雅黑">教师培训</font>
 															</a>
 														</li>
 
 														<li>
-															<a href="jylist.asp?type=73&type2=48">
+															<a href="cxjyview.asp?id=412">
 																<font color="#FFFFFF" face="微软雅黑">青年教师培养</font>
 															</a>
 														</li>
