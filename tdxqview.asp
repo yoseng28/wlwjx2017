@@ -33,6 +33,7 @@ call view_content(title,infotime,hits,content,user)
 	<html>
 
 	<head>
+		<link rel="shortcut icon" href="images/new/wlw.ico" >
 		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 		<title>
 			<%= title %>--

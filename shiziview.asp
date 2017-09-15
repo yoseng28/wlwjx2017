@@ -112,7 +112,7 @@ border=0>
                                     <TR> 
                                       <TD align="left" height="42" background="bj.jpg" class="anli1">
 										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="Œ¢»Ì—≈∫⁄">°°</font><font face="Œ¢»Ì—≈∫⁄"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a href="shizi.asp?type=48" style="text-decoration: none">≥…‘±ºÚΩÈ</a></font></TD>
+										<font color="#004993" face="Œ¢»Ì—≈∫⁄">°°</font><font face="Œ¢»Ì—≈∫⁄"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a href="shizi.asp?type=48" style="text-decoration: none">ΩÃ ¶ºÚΩÈ</a></font></TD>
                                       
                                     </TR>
                                   </TBODY>

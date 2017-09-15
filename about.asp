@@ -35,6 +35,7 @@ set rs=nothing
 %>
 <html>
 <head>
+<link rel="shortcut icon" href="images/new/wlw.ico" >
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 <title><% =sitetitle %></title>
 <meta name="keywords" content="<%=bigclass%>,<%=title%>,<% =webKeywords %>">

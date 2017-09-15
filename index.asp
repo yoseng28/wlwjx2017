@@ -13,6 +13,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow">
 
+<link rel="shortcut icon" href="images/new/wlw.ico" >
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css"/>
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script> 

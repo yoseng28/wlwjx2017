@@ -90,18 +90,33 @@ border=0>
                                 <TABLE cellSpacing=0 cellPadding=0 width="91%" 
                               border=0 height="87" >
                                   <TBODY>
+                                  	
+                  			<%
+							set rsSmallClass=server.CreateObject("adodb.recordset")
+							rsSmallClass.open "Select * From SmallClass Where BigClassName='" & bigclass & "'",conn,1,1
+							if not(rsSmallClass.bof and rsSmallClass.eof) then 
+							do while not rsSmallClass.eof
+							Small=rsSmallClass("SmallClassName")
+							%>
+							
                                     <TR> 
                                       <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
 										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="ydlist.asp?type=64&type2=27">»ù´¡¼¼ÄÜÑ§Ï°×ÊÔ´</a></font></TD>
-                                      
+										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font>
+										<font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27">
+											<span class="Apple-converted-space">&nbsp;</span>
+											<a style="text-decoration: none" href="xxydlist.asp?type=<%=bigclassid%>&type2=<%=rsSmallClass("SmallClassid")%>">
+												<%=Small%>
+											</a>
+										</font>
+                                      </TD>
                                     </TR>
-                                    <TR> 
-                                      <TD align="left" height="40" background="bj.jpg" style="font-size: 10pt; line-height: 22px; font-family: arial">
-										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font><font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a style="text-decoration: none" href="ydlist.asp?type=64&type2=28">¿Î³Ì×ÊÔ´</a></font></TD>
-                                      
-                                    </TR>
+                                    
+                            <%
+							rsSmallClass.movenext
+							loop
+							End if
+							%>
                                     
                                   </TBODY>
                                 </TABLE>
@@ -112,114 +127,17 @@ border=0>
 						<font color="#666666" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 						<table border="0" width="302" cellspacing="0" cellpadding="0" height="40" bgcolor="#004993" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 							<tbody style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-							<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								<td height="50" bgcolor="#0099FF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								<p class="title" style="margin-top: 0; margin-bottom: 0" align="left">
-										<font color="#006699" face="Î¢ÈíÑÅºÚ" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">¡¡</font><span style="border:0px none; margin:0px; padding:0px; font-weight: 700; "><font color="#FFFFFF" face="Î¢ÈíÑÅºÚ" style="border: 0px none; margin: 0px; padding: 0px">ÍÅ¶Ó¶¯Ì¬</font></span></td>
-							</tr>
-							<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								<td height="10" bgcolor="#FFFFFF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-								¡¡</td>
-							</tr>
-				</table>
+						</table>
 						<table border="0" width="101%" cellspacing="0" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 							<tbody style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 							<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 								<td style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px"> 
-                <table border="0" width="252" cellspacing="0" height="253" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
+                	<table border="0" width="252" cellspacing="0" height="253" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 					<tbody style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
 						<td bgcolor="#FFFFFF" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px"> 
-				<div align="center" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-								<table border="1" bgcolor="#FFFFFF" cellspacing="0" bordercolor="#CFCFCF" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" width="255">
-									<tbody style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-									<tr style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-										<td style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-							<body>
-<div id="demo" style="border:0px none; margin:0px; padding:0px; overflow:hidden;height:209px;width:298px; font-size:15px">
-<ul id="demo1" style="height: auto; text-align: left; border: 0px none; margin: 0px; padding: 0px; list-style-type:none; font-size:15px">  
-<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="Î¢ÈíÑÅºÚ">
-                <b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                <%
-sql2="select *  from content where bigclassname='"&index1&"' order by id desc "
-Set oRS= Server.CreateObject("ADODB.recordset")
-oRS.Open sql2,conn,1,3
- if NOT oRS.EOF then 
-for i=1 to 20
-  if NOT oRS.EOF then
-   %>
-                </b>
-                </font>
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-border=0 height="24" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                  <TBODY style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                    <TR style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"> 
-                      <TD class=sd13 height=24>
-						<p style="margin-top: 0; margin-bottom: 0">
-						<font face="Î¢ÈíÑÅºÚ" style="font-size: 15px; border: 0px none; margin: 0px; padding: 0px">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">¡¤  
-						</font>  
-						<A 
-                              title=<%=oRS("title")%> 
-                              href="gonggaoview.asp?id=<%=oRS("id")%>" 
-                               style="border:0px none; margin:0px; padding:0px; text-decoration: none; font-size:15px">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-						<%=left(oRS("title"),15)%></font></A></font></TD>
-						<TD class=sd13 height=27 width="56">
-						<p align="center" style="margin-top: 0; margin-bottom: 0">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="Î¢ÈíÑÅºÚ">(<% =month(ors("infotime")) %>.<% =day(ors("infotime")) %>)</font></TD>
-                    </TR>
-
-                  </TBODY>
-                </TABLE>
-                <font color="#FFFF00" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="Î¢ÈíÑÅºÚ">
-                <b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"><%
-oRS.MoveNEXT
-end if
-next
-else Response.Write ("ÔÝÎÞÄÚÈÝ.") end if
-oRS.close 
-Set oRS = Nothing
-%>
-              </b>
-              </font></ul> 
-<div id="demo2" style="height: auto; text-align: left; border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-	<p style="margin-top: 0; margin-bottom: 0"></div>
-</div> 
-							<font color="#FFFF00" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="Î¢ÈíÑÅºÚ"> 
-							<b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"> 
-<script> 
-var speed=40 
-var demo=document.getElementById("demo"); 
-var demo2=document.getElementById("demo2"); 
-var demo1=document.getElementById("demo1"); 
-demo2.innerHTML=demo1.innerHTML 
-function Marquee(){ 
-if(demo2.offsetTop-demo.scrollTop<=0) 
-  demo.scrollTop-=demo1.offsetHeight 
-else{ 
-  demo.scrollTop++ 
-} 
-} 
-var MyMar=setInterval(Marquee,speed) 
-demo.onmouseover=function() {clearInterval(MyMar)} 
-demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
-</script> 
-</body>
-							</b>
-							</font>
-</td>
-									</tr>
-								</table>
-							</div>
-                ¡¡</td>
+						</td>
 					</tr>
-
-					<tr style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px">
-						<td bgcolor="#FFFFFF" width="248" height="130" align="left" style="font-size: 16px; border: 0px none; margin: 0px; padding: 0px"> 
-              	¡¡</td>
-					</tr>
-
 					</table>
               					</td>
 							</tr>
@@ -239,7 +157,7 @@ border=0 height="76">
 						<img border="0" src="fl/jiantou.jpg" width="17" height="14"></font></b><font color="#663300" face="Î¢ÈíÑÅºÚ"> </font>
 						<font face="Î¢ÈíÑÅºÚ"><font color="#004993">&nbsp;</font><b><font color="#004993">Ê×Ò³ 
                         &gt;&gt; </font> 
-						<a href="tdgc.asp?type=<%=bigclassid%>" style="text-decoration: none">
+						<a href="xxyd.asp?type=<%=bigclassid%>" style="text-decoration: none">
 						<font color="#004993"><%=bigclass%></font></a><font color="#004993"> 
                         &gt;&gt; <%=smallclass%> 
                         </font> 
@@ -285,7 +203,8 @@ for j=1 to rs.PageSize
                         align=left width="716"> <font face="Î¢ÈíÑÅºÚ">                             
                                                              
                                <a href="xxydview.asp?id=<% =rs("id") %>" style="text-decoration: none">
-								<p class="shuye1" style="line-height: 200%; margin-top: 0; margin-bottom: 0; margin-left:16px"><a href="xxydview.asp?id=<% =rs("id") %>" style="text-decoration: none" > 
+								<p class="shuye1" style="line-height: 200%; margin-top: 0; margin-bottom: 0; margin-left:16px">
+									<a href="xxydview.asp?type=<%=bigclassid%>&type2=<%=rsSmallClass("SmallClassid")%>&id=<% =rs("id") %>" style="text-decoration: none" > 
                                       <font color="#666666"><img border="0" src="fl/icon03.gif" width="4" height="4"> <% =rs("title") %></p>
                                 </font>                 
 

@@ -6,6 +6,7 @@
 		
 		
 <!--yoseng20170825-->		
+<link rel="shortcut icon" href="images/new/wlw.ico" >
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css"/>
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script> 
@@ -37,7 +38,7 @@
 																<font color="#FFFFFF">交大首页</font>
 															</a>
 															<font color="#373737">　</font>
-														</font><span class="zhuye"><a href="javascript:window.external.addFavorite('http://www.ectgemlju.com','欢迎你收藏兰州交通大学——兰州交通大学英语基础课教学团队网站')" style="text-decoration: none"><font size="2" color="#000000"><a style="text-decoration: none" href="about.asp?type=5"><font color="#FFFFFF">联系我们</font></a></font></a></span>
+														</font><span class="zhuye"><a href="javascript:window.external.addFavorite('http://www.ectgemlju.com','欢迎你收藏兰州交通大学——兰州交通大学物联网教学团队网站')" style="text-decoration: none"><font size="2" color="#000000"><a style="text-decoration: none" href="about.asp?type=5"><font color="#FFFFFF">联系我们</font></a></font></a></span>
 														<font size="2" face="微软雅黑">
 															<a style="text-decoration: none" href="about.asp?type=5">
 																<font color="#373737">　</font>
@@ -363,7 +364,7 @@
 														<span class="glyphicon glyphicon-cd"></span>
 														<font color="#FFFFFF" face="微软雅黑"><b>学习园地</b></font>
 													</a>
-													<ul class="subs">
+													<!--<ul class="subs">
 														<li>
 															<a href="ydlist.asp?type=64&type2=27">
 																<font color="#FFFFFF" face="微软雅黑">基础技能学习资源</font>
@@ -375,10 +376,7 @@
 																<font color="#FFFFFF" face="微软雅黑">课程资源</font>
 															</a>
 														</li>
-
-														<li></li>
-
-													</ul>
+													</ul>-->
 
 												</li>
 

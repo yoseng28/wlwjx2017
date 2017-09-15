@@ -60,6 +60,7 @@ end if
 	<html>
 
 	<head>
+		<link rel="shortcut icon" href="images/new/wlw.ico" >
 		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 		<title>
 			<% =sitetitle %>--
@@ -111,7 +112,7 @@ end if
 													<tr>
 														<TD height="49" align="center" bgcolor="#0099FF">
 															<p align="left" class="title" style="margin-top: 0; margin-bottom: 0">
-																<font color="#006699" face="微软雅黑">　</font><span style="font-weight: 700"><font color="#FFFFFF" face="微软雅黑">团队成员</font></span></TD>
+																<font color="#006699" face="微软雅黑">　</font><span style="font-weight: 700"><font color="#FFFFFF" face="微软雅黑">团队详情</font></span></TD>
 													</tr>
 													<tr>
 														<TD height="99" bgcolor="#FFFFFF">
@@ -228,9 +229,8 @@ end if
                         
                       <a href="index.asp" style="text-decoration: none">
 						<font color="#004993">首页</font></a><font color="#004993"> 
-						                        
                       <b>&gt;&gt; 
-						<%=bigclass%><%if smallclass<>"" then%><span style="text-decoration: none"> </span>
+						团队详情
 																	</b>
 																	</font>
 																	</font>
@@ -238,7 +238,7 @@ end if
 
 																	<font color="#004993" face="微软雅黑">
 
-																		<b><span style="text-decoration: none; font-weight:bold">&gt;&gt; <%=smallclass%><%end if%></span></b></font>
+																		<b><span style="text-decoration: none; font-weight:bold">&gt;&gt;教师简介</span></b></font>
 															</TD>
 														</TR>
 
