@@ -97,7 +97,7 @@ smallclassid=left(smallclassid,8)
 												<tr>
 													<TD height="49" align="center" bgcolor="#0099FF">
 														<p align="left" class="title" style="margin-top: 0; margin-bottom: 0">
-															<font color="#006699" face="Œ¢»Ì—≈∫⁄">°°</font><span style="font-weight: 700"><font color="#FFFFFF" face="Œ¢»Ì—≈∫⁄">…Í±®≤ƒ¡œ</font></span></TD>
+															<font color="#006699" face="Œ¢»Ì—≈∫⁄">°°</font><span style="font-weight: 700"><font color="#FFFFFF" face="Œ¢»Ì—≈∫⁄">»ŒŒÒ≤ƒ¡œ</font></span></TD>
 												</tr>
 												<tr>
 													<TD height="99" bgcolor="#FFFFFF">
@@ -108,7 +108,7 @@ smallclassid=left(smallclassid,8)
 																		<p class="xuesheng" style="margin-top: 0; margin-bottom: 0; line-height:200%">
 																			<font color="#004993" face="Œ¢»Ì—≈∫⁄">°°</font>
 																			<font face="Œ¢»Ì—≈∫⁄"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;&nbsp;</span>
-																				<a style="text-decoration: none" href="sbcl.asp?type=72">…Í±® È</a>
+																				<a style="text-decoration: none" href="sbcl.asp?type=72">»ŒŒÒ È</a>
 																			</font>
 																	</TD>
 																</TR>
@@ -199,33 +199,33 @@ for i=1 to 8
   if NOT oRS.EOF then
    %>
                               </span>
-																		<TABLE width="810" border="0" align="center" cellPadding=0 cellSpacing=0>
-																			<TBODY>
-																				<TR>
-																					<TD width=20 height="9" vAlign=middle class=listbg align="left">
-																						<p align="center">
-																							<img border="0" src="fl/icon03.gif" width="4" height="4"></TD>
-																					<TD width="679" height="30" class=listbg align="left">
-																						<a href="newsview.asp?id=<% =ors(" id ") %>">
-																							<font color="#404A53">
-																								<% =ors("title") %>
-																							</font>
-																						</a>
-																					</TD>
-																					<TD width="109" height="30" class=listbg align="left">
-																						<font color="#404A53">(
-																							<% =year(ors("infotime")) %>-
-																							<% =month(ors("infotime")) %>-
-																							<% =day(ors("infotime")) %>)</font>
-																					</TD>
-																				</TR>
-																				<TR>
-																					<TD height="2" colspan="3" vAlign=middle class=listb background="images/newx_fenge.gif" g></TD>
-																				</TR>
-																			</TBODY>
-																		</TABLE>
-																		<span class="bh">  
-                              <%
+			<TABLE width="810" border="0" align="center" cellPadding=0 cellSpacing=0>
+				<TBODY>
+					<TR>
+						<TD width=20 height="9" vAlign=middle class=listbg align="left">
+						<p align="center">
+						<img border="0" src="fl/icon03.gif" width="4" height="4"></TD>
+						<TD width="679" height="30" class=listbg align="left">
+							<a href="newsview.asp?id=<% =ors("id") %>">
+						<font color="#404A53">
+							<% =ors("title") %>
+						</font></a>
+					    </TD>
+						<TD width="109" height="30" class=listbg align="left">
+							<font color="#404A53">
+								(<% =year(ors("infotime")) %>-
+								<% =month(ors("infotime")) %>-
+								<% =day(ors("infotime")) %>)
+							</font>
+						</TD>
+					</TR>
+					<TR>
+						<TD height="2" colspan="3" vAlign=middle class=listb background="images/newx_fenge.gif" g></TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<span class="bh">  
+<%
 oRS.MoveNEXT
 end if
 next
@@ -275,36 +275,36 @@ if page > pages then page=pages
 rs.AbsolutePage=page  
 for j=1 to rs.PageSize 
 %>
-																		<TR height=24>
-																			<TD width="20" height="25" align=left class="shuye">
-																				<div align="center"><b><font color="#404A53">
-								<img border="0" src="fl/icon03.gif" width="4" height="4"> 
+		<TR height=24>
+		<TD width="20" height="25" align=left class="shuye">
+			<div align="center"><b><font color="#404A53">
+			<img border="0" src="fl/icon03.gif" width="4" height="4"> 
                                 </font> 
                                 </b>
-																				</div>
-																			</TD>
-																			<TD height="30" align=left width="682" class="shuye">
-																				<font face="Œ¢»Ì—≈∫⁄" color="#404A53">
-																					<% if rs("firstImageName")<>"" then response.write "<img src='images/news.gif' border=0 alt='Õº∆¨'>" end if %>
-																				</font>
-																				<a href="newsview.asp?id=<% =rs(" id ") %>" style="text-decoration: none">
-																					<font face="Œ¢»Ì—≈∫⁄" color="#404A53">
-																						<%=left(rs("title"),38)%>
-																					</font>
+			</div>
+		</TD>
+		<TD height="30" align=left width="682" class="shuye">
+		<font face="Œ¢»Ì—≈∫⁄" color="#404A53">
+		<% if rs("firstImageName")<>"" then response.write "<img src='images/news.gif' border=0 alt='Õº∆¨'>" end if %>
+		</font>
+		<a href="newsview.asp?id=<% =rs("id") %>" style="text-decoration: none">
+		<font face="Œ¢»Ì—≈∫⁄" color="#404A53">
+		<%=left(rs("title"),38)%>
+		</font>
 																				</a>
 																			</TD>
-																			<TD height="30" align=left width="94" class="shuye">
-																				<font color="#404A53" face="Œ¢»Ì—≈∫⁄">(
-																					<% =year(rs("infotime")) %>.
-																					<% =month(rs("infotime")) %>.
-																					<% =day(rs("infotime")) %> )
-																				</font>
-																			</TD>
-																		</TR>
-																		<TR>
-																			<TD height="2" colspan="3" vAlign=middle class=listb background="../images/newx_fenge.gif" g></TD>
-																		</TR>
-																		<%
+		<TD height="30" align=left width="94" class="shuye">
+		<font color="#404A53" face="Œ¢»Ì—≈∫⁄">
+			(<% =year(rs("infotime")) %>.
+			<% =month(rs("infotime")) %>.
+			<% =day(rs("infotime")) %> )
+		</font>
+		</TD>
+	</TR>
+	<TR>
+		<TD height="2" colspan="3" vAlign=middle class=listb background="../images/newx_fenge.gif" g></TD>
+	</TR>
+<%
 rs.movenext
 if rs.eof then exit for
 next
