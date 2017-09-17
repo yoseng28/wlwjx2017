@@ -84,180 +84,64 @@ border=0>
   <TBODY>
     <TR> 
       <TD width="0"></TD>
-      <TD width="1100
-">
+      <TD width="1100">
 		<div align="center">
 			<TABLE cellSpacing=0 cellPadding=0 width=1100 border=1 style="BORDER-TOP: #808080 1px solid;BORDER-LEFT: #808080 1px solid;BORDER-right: #808080 1px solid;BORDER-bottom: #808080 1px solid;">          <TBODY>
             <TR> 
               <TD width="260" vAlign=top bgcolor="#FFFFFF"  style="BORDER-TOP: #808080 0px solid;BORDER-LEFT: #808080 0px solid;BORDER-right: #808080 1px solid;BORDER-bottom: #808080 0px solid;"> 
-               
                 <table border="0" width="240" cellspacing="0" height="32">
 					<tr>
                       <TD height="32" align="left">
-                <table border="0" width="240" cellspacing="0" height="644">
-					<tr>
-                      <TD height="60" align="center" bgcolor="#0099FF">
-						<p class="anli" align="left"><font color="#4D4D4D">°°</font><span style="font-weight: 700"><font color="#FFFFFF" face="Œ¢»Ì—≈∫⁄">Õ≈∂”≥…‘±</font></span></TD>
-                    </tr>
-                                   
-
-					<tr>
-						<td bgcolor="#FFFFFF"> 
-                <table border="0" width="288" cellspacing="0" height="91">
-                <tr>
-                                      <TD align="left" height="91" class="text">
-                                <TABLE cellSpacing=0 cellPadding=0 width="91%" 
-                              border=0 height="42" >
-                                  <TBODY>
-                                    <TR> 
-                                      <TD align="left" height="42" background="bj.jpg" class="anli1">
-										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
-										<font color="#004993" face="Œ¢»Ì—≈∫⁄">°°</font><font face="Œ¢»Ì—≈∫⁄"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span><a href="shizi.asp?type=48" style="text-decoration: none">ΩÃ ¶ºÚΩÈ</a></font></TD>
-                                      
-                                    </TR>
-                                  </TBODY>
-                                </TABLE>
-										</TD>
-                                      
-                                    </tr>
-
-					</table>
-				<p style="margin-top: -3px; margin-bottom: -3px" align="center">
-				°°<table border="0" width="95%" height="142" cellspacing="0" cellpadding="0">
-					<tr>
-						<td bgcolor="#FFFFFF" height="142"> 
-              	
-                <table border="0" width="260" cellspacing="0" height="436"   style="BORDER-TOP: #808080 0px solid;BORDER-LEFT: #808080 0px solid;BORDER-right: #808080 0px solid;BORDER-bottom: #808080 0px solid;">
-					<tr>
-						<td bgcolor="#FFFFFF" height="260"> 
-						<font color="#666666">
-						<table border="0" width="302" cellspacing="0" cellpadding="0" height="40" bgcolor="#004993">
+		                <table border="0" width="240" cellspacing="0" height="644">
 							<tr>
-								<td height="50" bgcolor="#0099FF">
-								<p class="anli" style="margin-top: 0; margin-bottom: 0" align="left">
-										<font color="#006699" face="Œ¢»Ì—≈∫⁄">°°</font><span style="font-weight: 700"><font color="#FFFFFF" face="Œ¢»Ì—≈∫⁄">Õ≈∂”∂ØÃ¨</font></span></td>
-							</tr>
+		                      <TD height="60" align="center" bgcolor="#0099FF">
+								<p class="anli" align="left"><font color="#4D4D4D">°°</font><span style="font-weight: 700"><font color="#FFFFFF" face="Œ¢»Ì—≈∫⁄">Õ≈∂”≥…‘±</font></span></TD>
+		                    </tr>
 							<tr>
-								<td height="10" bgcolor="#FFFFFF">
-								°°</td>
+								<td bgcolor="#FFFFFF"> 
+		               				<table border="0" width="288" cellspacing="0" height="91">
+               			 				<tr>
+                          					<TD align="left" height="91" class="text">
+			                                <TABLE cellSpacing=0 cellPadding=0 width="91%" border=0 height="42" >
+			                                  <TBODY>
+			                                    <TR> 
+			                                      <TD align="left" height="42" background="bj.jpg" class="anli1">
+													<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
+													<font color="#004993" face="Œ¢»Ì—≈∫⁄">
+														<img border="0" src="images/about1.jpg" width="19" height="27">
+														<span class="Apple-converted-space">&nbsp;</span>
+														<a href="shizi.asp?type=48" style="text-decoration: none">ΩÃ ¶ºÚΩÈ</a>
+													</font>
+													</p>
+			                                      </TD>
+			                                    </TR>
+			                                  </TBODY>
+                                			</TABLE>
+											</TD>
+                        				</tr>
+									</table>
+									<p style="margin-top: -3px; margin-bottom: -3px" align="center">
+									<table border="0" width="95%" height="142" cellspacing="0" cellpadding="0">
+										<tr>
+											<td bgcolor="#FFFFFF" height="142"> 
+                								<table border="0" width="260" cellspacing="0" height="436"   style="BORDER-TOP: #808080 0px solid;BORDER-LEFT: #808080 0px solid;BORDER-right: #808080 0px solid;BORDER-bottom: #808080 0px solid;">
+													<tr>
+														<td bgcolor="#FFFFFF" height="260"> 
+															<font color="#666666">
+															<table border="0" width="302" cellspacing="0" cellpadding="0" height="40" bgcolor="#004993">
+															</table>
+														</td>
+													</tr>
+												</table>
+              								</td>
+										</tr>
+									</table>
+								</td>
 							</tr>
-				</table>
-						<table border="0" width="101%" cellspacing="0">
-							<tr>
-								<td> 
-                <table border="0" width="252" cellspacing="0" height="253">
-					<tr>
-						<td bgcolor="#FFFFFF"> 
-				<div align="center" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-								<table border="1" bgcolor="#FFFFFF" cellspacing="0" bordercolor="#CFCFCF" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" width="255">
-									<tbody style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-									<tr style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-										<td style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-							<body>
-<div id="demo" style="border:0px none; margin:0px; padding:0px; overflow:hidden;height:209px;width:298px; font-size:15px">
-<ul id="demo1" style="height: auto; text-align: left; border: 0px none; margin: 0px; padding: 0px; list-style-type:none; font-size:15px">  
-<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="Œ¢»Ì—≈∫⁄">
-                <b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                <%
-sql2="select *  from content where bigclassname='"&index1&"' order by id desc "
-Set oRS= Server.CreateObject("ADODB.recordset")
-oRS.Open sql2,conn,1,3
- if NOT oRS.EOF then 
-for i=1 to 20
-  if NOT oRS.EOF then
-   %>
-                </b>
-                </font>
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-border=0 height="24" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                  <TBODY style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-                    <TR style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"> 
-                      <TD class=sd13 height=24>
-						<p style="margin-top: 0; margin-bottom: 0">
-						<font face="Œ¢»Ì—≈∫⁄" style="font-size: 15px; border: 0px none; margin: 0px; padding: 0px">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">°§  
-						</font>  
-						<A 
-                              title=<%=oRS("title")%> 
-                              href="newsview.asp?id=<%=oRS("id")%>" 
-                               style="border:0px none; margin:0px; padding:0px; text-decoration: none; font-size:15px">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-						<%=left(oRS("title"),15)%></font></A></font></TD>
-						<TD class=sd13 height=27 width="56">
-						<p align="center" style="margin-top: 0; margin-bottom: 0">
-						<font color="#000F1A" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="Œ¢»Ì—≈∫⁄">(<% =month(ors("infotime")) %>.<% =day(ors("infotime")) %>)</font></TD>
-                    </TR>
-
-                  </TBODY>
-                </TABLE>
-                <font color="#FFFF00" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="Œ¢»Ì—≈∫⁄">
-                <b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"><%
-oRS.MoveNEXT
-end if
-next
-else Response.Write ("‘›Œﬁƒ⁄»›.") end if
-oRS.close 
-Set oRS = Nothing
-%>
-              </b>
-              </font></ul> 
-<div id="demo2" style="height: auto; text-align: left; border: 0px none; margin: 0px; padding: 0px; font-size:15px">
-	<p style="margin-top: 0; margin-bottom: 0"></div>
-</div> 
-							<font color="#FFFF00" style="border: 0px none; margin: 0px; padding: 0px; font-size:15px" face="Œ¢»Ì—≈∫⁄"> 
-							<b style="border: 0px none; margin: 0px; padding: 0px; font-size:15px"> 
-<script> 
-var speed=40 
-var demo=document.getElementById("demo"); 
-var demo2=document.getElementById("demo2"); 
-var demo1=document.getElementById("demo1"); 
-demo2.innerHTML=demo1.innerHTML 
-function Marquee(){ 
-if(demo2.offsetTop-demo.scrollTop<=0) 
-  demo.scrollTop-=demo1.offsetHeight 
-else{ 
-  demo.scrollTop++ 
-} 
-} 
-var MyMar=setInterval(Marquee,speed) 
-demo.onmouseover=function() {clearInterval(MyMar)} 
-demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
-</script> 
-</body>
-							</b>
-							</font>
-</td>
-									</tr>
-								</table>
-							</div>
-                °°</td>
-					</tr>
-
-					<tr>
-						<td bgcolor="#FFFFFF" width="248" height="130" align="left"> 
-              	°°</td>
-					</tr>
-
-					</table>
-              					</td>
-							</tr>
-						</table></td>
-					</tr>
-					<tr>
-						<td bgcolor="#FFFFFF"> 
-										°°</td>
-					</tr>
-				</table>
-              			</td>
-					</tr>
-					</table>
-										</td>
-					</tr>
-				</table>
-                		</TD>
+						</table>
+            		  </TD>
                     </tr>
 					</table>
-                
 				</TD>
               <TD width="842" vAlign=top bgcolor="#FFFFFF"> 
 				<table border="0" width="97%">
@@ -274,9 +158,10 @@ border=0 height="60">
 						<p style="line-height: 200%; margin-top: 0px; margin-bottom:0; margin-right:40px" align="left" class="anli">
 						<SPAN style="FONT-WEIGHT: bold;FONT-SIZE: 14px">
 						<font color="#669900">°°<img border="0" src="fl/jiantou.jpg" width="17" height="14"> </font></SPAN>
-						<font face="Œ¢»Ì—≈∫⁄"><a href="http://www.dfmzsz.com" style="text-decoration: none">
-						<font color="#404A53"> ◊“≥</font></a><font color="#404A53"> 
-                        &gt;&gt; <%= rs("ProductBigClass") %> <%if rs("ProductSmallClass")<>"" then%>
+						<font face="Œ¢»Ì—≈∫⁄"><a href="index.asp" style="text-decoration: none">
+						<font color="#004993"> ◊“≥</font></a>
+						<font color="#004993"> 
+                        &gt;&gt;<a style="text-decoration: none; color: #004993;" href="shizi.asp?type=48"><%= rs("ProductBigClass") %></a><%if rs("ProductSmallClass")<>"" then%>
                         &gt;&gt; <%= rs("ProductSmallClass") %><%end if%>
 						&gt;&gt; <%= rs("ProductName") %></b></font></font></TD>
                     </TR>

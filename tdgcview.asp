@@ -127,7 +127,7 @@ call view_content(title,infotime,hits,content,user)
 																										<p class="xuesheng" style="margin-top: 0; margin-bottom: 0">
 																											<font color="#004993" face="Î¢ÈíÑÅºÚ">¡¡</font>
 																											<font face="Î¢ÈíÑÅºÚ"><img border="0" src="images/about1.jpg" width="19" height="27"><span class="Apple-converted-space">&nbsp;</span>
-																												<a style="text-decoration: none" href="tdgclist.asp?type=86&type2=57">ÊÚ¿ÎÇé¿ö</a>
+																												<a style="text-decoration: none" href="tdgcview.asp?id=418">ÊÚ¿ÎÇé¿ö</a>
 																											</font>
 																									</TD>
 
