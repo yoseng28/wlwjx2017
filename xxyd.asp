@@ -90,23 +90,6 @@ border=0>
                               border=0 height="87" >
                                   <TBODY>
 
-<%
-sql2="select *  from content where bigclassname='"&index1&"' order by id desc"
-Set oRS= Server.CreateObject("ADODB.recordset")
-oRS.Open sql2,conn,1,3
- if NOT oRS.EOF then 
-for i=1 to 20
-  if NOT oRS.EOF then
-   %>         
-<%
-oRS.MoveNEXT
-end if
-next
-else Response.Write ("ÔÝÎÞÄÚÈÝ.") end if
-oRS.close 
-Set oRS = Nothing
-%>
-
 							<%
 							set rsSmallClass=server.CreateObject("adodb.recordset")
 							rsSmallClass.open "Select * From SmallClass Where BigClassName='" & bigclass & "'",conn,1,1
@@ -160,7 +143,11 @@ border=0 height="50">
 						<p align="left" style="margin-top: 0; margin-bottom: 0" class="shuye">
 						<b>
 						<font face="Î¢ÈíÑÅºÚ" color="#5E5E5E">
-						<p class="title" style="line-height: 200%; margin-top: 0; margin-bottom: 0" align="left"></font><font face="Î¢ÈíÑÅºÚ"><font color="#004993"><img border="0" src="fl/jiantou.jpg" width="17" height="14">Ê×Ò³ &gt;&gt; <%=bigclass%> 
+						<p class="title" style="line-height: 200%; margin-top: 0; margin-bottom: 0" align="left"></font><font face="Î¢ÈíÑÅºÚ"><font color="#004993">
+							<img border="0" src="fl/jiantou.jpg" width="17" height="14">
+							<a href="index.asp" style="text-decoration: none">
+									<font color="#004993">Ê×Ò³</font></a> 
+							&gt;&gt; <%=bigclass%> 
 						</font> </p></font> 
                       	</b> 
                       </TD>

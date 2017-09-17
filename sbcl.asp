@@ -137,7 +137,8 @@ smallclassid=left(smallclassid,8)
 															<p align="left" style="margin-top: 0; margin-bottom: 0" class="shuye">
 																<b>
 						<font face="Î¢ÈíÑÅºÚ" color="#5E5E5E">
-						<p class="title" style="line-height: 200%; margin-top: 0; margin-bottom: 0" align="left"></font><font face="Î¢ÈíÑÅºÚ"><font color="#004993"><img border="0" src="fl/jiantou.jpg" width="17" height="14">Ê×Ò³ &gt;&gt; <%=bigclass%> 
+						<p class="title" style="line-height: 200%; margin-top: 0; margin-bottom: 0" align="left"></font><font face="Î¢ÈíÑÅºÚ"><font color="#004993">
+							<img border="0" src="fl/jiantou.jpg" width="17" height="14"><a href="index.asp"style="color: #004993;text-decoration: none">Ê×Ò³</a> &gt;&gt; <%=bigclass%> 
 						</font> </p></font> 
                       	</b>
 														</TD>

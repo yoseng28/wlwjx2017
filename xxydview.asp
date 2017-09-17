@@ -160,24 +160,6 @@ border=0>
 						<table border="0" width="302" cellspacing="0" cellpadding="0" height="40" bgcolor="#004993">
 						</table>
 
-<%
-sql2="select *  from content where bigclassname='"&index1&"' order by id desc "
-Set oRS= Server.CreateObject("ADODB.recordset")
-oRS.Open sql2,conn,1,3
- if NOT oRS.EOF then 
-for i=1 to 20
-  if NOT oRS.EOF then
-%>
-
-
-<%
-oRS.MoveNEXT
-end if
-next
-else Response.Write ("ÔÝÎÞÄÚÈÝ.") end if
-oRS.close 
-Set oRS = Nothing
-%>
 					</td>
 					</tr>
                                       
@@ -200,8 +182,19 @@ border=0 height="38">
                     <TR> 
                       <TD width="847" height="60" align="center" style="BORDER-BOTTOM: #CFCFCF 1px dashed" background="fl/cp1.gif">
 						<p class="title" align="left" style="margin-top: 0; margin-bottom: 0"><b><font color="#205081">
-						<img border="0" src="fl/jiantou.jpg" width="17" height="14"></font></b><font face="Î¢ÈíÑÅºÚ"><a href="index.asp" style="text-decoration: none"><SPAN style="FONT-WEIGHT: bold;"><font color="#004993">Ê×Ò³</font></SPAN></a><b><font color="#004993"> 
-                        &gt;&gt;<%=bigclass%> 
+						<img border="0" src="fl/jiantou.jpg" width="17" height="14"></font></b><font face="Î¢ÈíÑÅºÚ">
+							<a href="index.asp" style="text-decoration: none">
+								<SPAN style="FONT-WEIGHT: bold;">
+									<a href="index.asp" style="text-decoration: none">
+										<font style="font-weight:bold" color="#004993">Ê×Ò³</font>
+									</a>
+								</SPAN>
+							</a><b>
+						<font color="#004993"> 
+                        &gt;&gt;
+                        <a href="xxyd.asp?type=64" style="text-decoration: none">
+							<font style="font-weight:bold" color="#004993"> <%=bigclass%> </font>
+						</a>
  						</font></b></font><b style="color: rgb(0, 0, 0); font-family: Arial, Î¢ÈíÑÅºÚ; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 37.3333px; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><font color="#004993" face="Î¢ÈíÑÅºÚ">&gt;&gt;</font></b><font face="Î¢ÈíÑÅºÚ"><b><font color="#004993">ÕýÎÄÄÚÈÝ </font></b></font></TD>
                     </TR>
 					</TBODY>

@@ -155,7 +155,10 @@ border=0 height="76">
                       <TD width="694" align="right" height="71">
 						<p align="left" class="title"><b><font color="#205081">
 						<img border="0" src="fl/jiantou.jpg" width="17" height="14"></font></b><font color="#663300" face="Î¢ÈíÑÅºÚ"> </font>
-						<font face="Î¢ÈíÑÅºÚ"><font color="#004993">&nbsp;</font><b><font color="#004993">Ê×Ò³ 
+						<font face="Î¢ÈíÑÅºÚ"><font color="#004993">&nbsp;</font><b>
+							<font color="#004993">
+								<a href="index.asp" style="text-decoration: none">
+									<font color="#004993">Ê×Ò³</font></a> 
                         &gt;&gt; </font> 
 						<a href="xxyd.asp?type=<%=bigclassid%>" style="text-decoration: none">
 						<font color="#004993"><%=bigclass%></font></a><font color="#004993"> 
